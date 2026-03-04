@@ -10,6 +10,9 @@ p{
     color:black;
     font:italic;
 }
+ul{
+    text-font:italic;
+}
 p{
     text-font:underline;
     text-align:center
