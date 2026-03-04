@@ -3,17 +3,21 @@ body {
 }
 h1{
     text-align:center;
-    color:peachpuff;
+    color:lavenderblush;
     font:bold;
 }
 p{
     color:black;
     font:italic;
+    text-align:center;
 }
 ul{
     text-font:italic;
 }
-p{
+img{
+    position:center;
+}
+p3{
     text-font:underline;
     text-align:center
 }
