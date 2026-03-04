@@ -16,6 +16,10 @@ ul{
 }
 img{
     position:center;
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }
 p3{
     text-font:underline;
