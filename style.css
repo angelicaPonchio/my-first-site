@@ -31,11 +31,10 @@ section{
 }
 
 img{
-    width:100%;
-    max-width:500px;
-    display:block;
-    margin:20px auto;
-    border-radius:10px;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
 }
 
 ul{
