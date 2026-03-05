@@ -1,27 +1,56 @@
-body {
-    background-color: mistyrose;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lavenderblush;
+    margin:0;
+    color:#333;
 }
+
+header{
+    background-color: lightcoral;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+main{
+    max-width:800px;
+    margin:auto;
+    padding:20px;
+}
+
 h1{
-    text-align:center;
-    color:rosybrown;
-    font:bold;
+    margin-bottom:5px;
 }
-p{
-    color:black;
-    font:italic;
-    text-align:center;
+
+h2{
+    color:indianred;
 }
-ul{
-    text-font:italic;
+
+section{
+    margin-bottom:40px;
 }
+
 img{
-    position:center;
-    width: 400px;
-    height: auto;
-    display: block;
-    margin: 20px auto;
+    width:100%;
+    max-width:500px;
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
 }
-p3{
-    text-font:underline;
-    text-align:center
+
+ul{
+    background-color:white;
+    padding:20px;
+    border-radius:8px;
+}
+
+li{
+    margin:8px 0;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background-color:#eee;
+    margin-top:40px;
 }
